@@ -34,7 +34,7 @@
     ]
   },
   "dependencies": {
-    "react": "^0.12.1",
+    "react": "^0.14.0",
     "react-draggable2": "^0.4.1",
     "react-tap-event-plugin": "^0.1.3"
   },
